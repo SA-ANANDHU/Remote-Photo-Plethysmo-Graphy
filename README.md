@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
@@ -266,11 +266,8 @@ The absolute amplitude of the rPPG signal varies between subjects. Pearson corre
 ## Author
 
 **Anandhu**
-Final Year B.E. Computer Science and Engineering (AI & ML)
+ B.E. Computer Science and Engineering (AI & ML)
 Sathyabama Institute of Science and Technology, Chennai
 
 ---
 
-## License
-
-MIT License — free to use, modify, and distribute with attribution.
