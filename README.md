@@ -1,4 +1,4 @@
-# rPPG Vitals Engine
+# RPPG Vitals Engine
 
 > Contactless heart rate, respiratory rate, and stress index from a standard webcam — no wearable, no physical contact.
 
